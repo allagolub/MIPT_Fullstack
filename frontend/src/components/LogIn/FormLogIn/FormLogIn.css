@@ -1,0 +1,71 @@
+.main-button-login {
+    position: fixed;
+    top: 47%;
+    left: 50%; 
+    width: calc(15%);
+    border-radius: 10px;
+    border: 0.5px solid #000;
+    background: #585E97;
+    color: #fff;
+    font-size: 40px;
+    font-family:  Kaiti SC;
+    cursor: pointer;
+}
+
+.registration-button-login {
+    position: fixed;
+    top: 47%;
+    right: 10%; 
+    width: calc(20%);
+    border-radius: 10px;
+    border: 0.5px solid #000;
+    background: #585E97;
+    color: #fff;
+    font-size: 40px;
+    font-family:  Kaiti SC;
+    cursor: pointer;
+}
+
+.email-login input {
+    border: 2px solid #CCC3C3;
+    color: #000;
+    font-size: 40px;
+    text-align: left;
+    font-family: Kaiti SC;
+    background: rgba(255, 255, 255, 0.95);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    position: fixed;
+    top: 20%;
+    left: 50%; 
+    border-radius: 10px;
+    width: calc(23%);
+    align-items: center; 
+    text-align: center;
+}
+.email-login input::placeholder {
+    color: #817A7A;
+    align-items: center; 
+    text-align: center;
+}
+
+.password-login input {
+    border: 2px solid #CCC3C3;
+    color: #000;
+    font-size: 40px;
+    text-align: left;
+    font-family: Kaiti SC;
+    background: rgba(255, 255, 255, 0.95);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    position: fixed;
+    top: 33%;
+    left: 50%; 
+    border-radius: 10px;
+    width: calc(23%);
+    align-items: center; 
+    text-align: center;
+}
+.password-login input::placeholder {
+    color: #817A7A;
+    align-items: center; 
+    text-align: center;
+}

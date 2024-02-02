@@ -1,0 +1,144 @@
+.search-tickets-item {
+  border: 1px solid lightgray;
+  padding: 10px;
+  margin-left: 5%;
+  margin-bottom: 5%;
+  margin-right: 5%;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  fill: rgba(255, 255, 255, 0.95);
+  background-color: #FFEFEF;
+  border-radius: 30px;
+  border: 1px solid #CCC3C3;
+  stroke-width: 1px;
+  stroke: #CCC3C3;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  align-items: center;
+}
+
+.img {
+  width: 10%;
+  height: 8%;
+  object-fit: cover;
+  border-radius: 10px;
+  margin: 1% 2% 2% 2%;
+}
+
+.from-item {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  font-family: Kaiti SC;
+}
+
+.from-all-time-item {
+  flex-direction: column;
+}
+
+.from-time-item {
+  font-size: 45px;
+}
+
+.from-date-item{
+  font-size: 30px;
+  display: block;
+}
+
+.from-city-item {
+  flex-direction: row;
+}
+
+.from-airport-item {
+  font-size: 25px;
+  padding: 3px;
+  border-radius: 5px;
+  font-weight: 100;
+}
+
+.from-city-item{
+  font-size: 25px;
+  font-weight: bold;
+  font-weight: 100;
+}
+
+.to-item {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  font-family: Kaiti SC;
+}
+.to-all-time-item {
+  flex-direction: column;
+}
+.to-time-item {
+  font-size: 45px;
+}
+
+.to-date-item{
+  font-size: 30px;
+  display: block;
+}
+.to-city-item {
+  flex-direction: row;
+}
+.to-airport-item {
+  font-size: 25px;
+  padding: 3px;
+  border-radius: 5px;
+  font-weight: 100;
+}
+
+.to-city-item{
+  font-size: 25px;
+  font-weight: bold;
+  font-weight: 100;
+}
+
+.details-item{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: right;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin : 2% 2% 2% 2%;
+  font-family: Kaiti SC;
+}
+
+.luggage-item, .refund-item, .hand-luggage-item{
+  font-size: 11px;
+  color: gray;
+}
+
+.button-buy{
+  margin-top: 10%;
+  background-color: #585E97;
+  color: white;
+  font-weight: bold;
+  width: 100%;
+  padding: 5% 5%;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  font-family: Kaiti SC;
+  font-size: 25px;
+  padding: 5px;
+}
+
+.result-time-item {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  font-family: Kaiti SC;
+}
+.straight-flight{
+  font-size: 20px;
+}
+.sum-item {
+  font-size: 30px;
+}
+.result-time {
+  font-size: 20px;
+}

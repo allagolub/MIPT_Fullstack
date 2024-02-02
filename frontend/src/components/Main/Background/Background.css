@@ -1,0 +1,15 @@
+.post img {
+    flex-shrink: 0;
+    position: fixed;
+    top: 20%;
+    height: calc(65%);
+    right: 5%;
+    left: 5%;
+    width: calc(90%);
+    display: flex;
+    flex-shrink: 0;
+    border-radius: 70px;
+    display: flex;
+    padding-bottom: 5%;
+    background: url(./images/1.jpeg), lightgray 10% / cover no-repeat;
+}
