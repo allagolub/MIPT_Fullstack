@@ -1,0 +1,38 @@
+  .title-login {
+  position: fixed;
+  left: 5%;
+  top: 5%;
+  color: #585E97;
+  font-family: Kaiti SC;
+  font-size: 70px;
+  font-style: normal;
+  font-weight: 400;
+  display: flex;
+  line-height: normal;
+  }
+  .header-login {
+    border: none;
+    background: #FFEFEF;
+    padding: 5px 10px;
+    font-size: 50px;
+    font-family:  Kaiti SC;
+    color: #585E97;
+    left: 50%;
+    top: 5%;
+    display: flex;
+    position: fixed;
+  }
+  .background-login img {
+    flex-shrink: 0;
+    position: fixed;
+    top: 0%;
+    height: calc(100%);
+    left: 0%;
+    width: calc(45%);
+    display: flex;
+    opacity: 0.6;
+    display: flex;
+    padding-bottom: 5%;
+    border-radius: 0%;
+    background: url(./images/1.jpeg), lightgray 10% / cover no-repeat;
+}

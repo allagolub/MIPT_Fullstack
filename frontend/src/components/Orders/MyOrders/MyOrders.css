@@ -1,0 +1,42 @@
+.my-passengers {
+    font-size: 60px;
+    margin-left: 5%;
+    font-family:  Kaiti SC;
+    text-align: left;
+}
+
+.info-name-passenger {
+    margin-top: 2%;
+    margin-left: 5%;
+    font-size: 30px;
+    font-family:  Kaiti SC;
+    text-align: left;
+}
+.info-details-passengers{
+    margin-left: 5%;
+    font-size: 30px;
+    font-family:  Kaiti SC;
+    text-align: left;
+}
+
+.delete-button {
+    border-radius: 10px;
+    border: 0.5px solid #000;
+    background: #585E97;
+    color: #fff;
+    font-size: 40px;
+    font-family: Kaiti SC;
+    margin-bottom: 2%;
+    cursor: pointer;
+    margin-right: 5%;
+}
+.choose-button {
+    border-radius: 10px;
+    border: 0.5px solid #000;
+    background: #585E97;
+    color: #fff;
+    font-size: 40px;
+    font-family: Kaiti SC;
+    margin-bottom: 2%;
+    cursor: pointer;
+}

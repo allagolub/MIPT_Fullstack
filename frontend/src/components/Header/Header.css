@@ -1,0 +1,59 @@
+.header {
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 3%;
+  }
+
+  .header-container{
+    width: 100%;
+    max-width: 90%;
+    margin-top: 2%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .title {
+  color: #585E97;
+  font-family: Kaiti SC;
+  font-size: 70px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  }
+  .login-button {
+    margin-left: 25px;
+    border-radius: 10px;
+    border: 0.5px solid #000;
+    background: #585E97;
+    color: #fff;
+    font-size: 40px;
+    font-family:  Kaiti SC;
+    cursor: pointer;
+  }
+  .profile {
+    margin-left: 25px;
+    line-height: normal;
+    border: 0px;
+    background: #FFEFEF;
+    font-size: 40px;
+    font-family:  Kaiti SC;
+    cursor: pointer;
+  }
+  .icon-profile {
+    width: 20px;
+    height: 20px; 
+    cursor: pointer;
+  }
+  .header-button {
+    margin-left: 25px;
+    border: none;
+    background: #FFEFEF;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-size: 40px;
+    font-family:  Kaiti SC;
+    color: black;
+  }
+  
+  

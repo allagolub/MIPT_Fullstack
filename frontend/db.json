@@ -1,0 +1,56 @@
+{
+  "profile": {
+    "name": "typicode"
+  },
+
+  "cities": {
+    "from": "",
+    "to": "",
+    "date": "",
+    "passengers": 1
+  },
+
+  "login": {
+    "EmailLogIn": "klm",
+    "PasswordLogIn": "jk"
+  },
+
+  "registration": {
+    "BirthDate": "",
+    "Document": "",
+    "DocumentID": "",
+    "Name": "",
+    "Surname": "",
+    "Gender": "М",
+    "Patronymic": ""
+  }, 
+
+  "my_passengers": [
+    {
+    "BirthDate": "01.01.2000",
+    "Name": "Иванова Мария Сергеевна",
+    "Gender": "Ж",
+    "DocumentType": "Паспорт",
+    "DocumentID": 2222222222
+  }
+], 
+
+"tickets": [
+  {
+  "from_time": "8:40",
+  "from_date": "7 окт",
+  "from_airport": "Шереметьево",
+  "from_city": "Москва",
+  "to_time": "13:45",
+  "to_date": "7 окт",
+  "to_airport": "Новый Стамбул",
+  "to_city": "Стамбул",
+  "straight" : "Прямой",
+  "result_time": "5ч 5м", 
+  "sum": "30000",
+  "luggage": 23, 
+  "hand_luggage": 10,
+  "refund": "Возврат со сбором"
+}
+]
+}

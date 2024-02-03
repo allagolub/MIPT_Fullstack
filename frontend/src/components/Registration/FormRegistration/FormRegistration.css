@@ -1,0 +1,138 @@
+.main-button-registration {
+    position: fixed;
+    top: 67%;
+    left: 50%; 
+    width: calc(25%);
+    border-radius: 10px;
+    border: 0.5px solid #000;
+    background: #585E97;
+    color: #fff;
+    font-size: 30px;
+    font-family:  Kaiti SC;
+    cursor: pointer;
+}
+
+.login-button-registration {
+    position: fixed;
+    top: 67%;
+    right: 7%; 
+    width: calc(15%);
+    border-radius: 10px;
+    border: 0.5px solid #000;
+    background: #585E97;
+    color: #fff;
+    font-size: 30px;
+    font-family:  Kaiti SC;
+    cursor: pointer;
+}
+
+.email-registration input {
+    border: 2px solid #CCC3C3;
+    color: #000;
+    font-size: 30px;
+    text-align: left;
+    font-family: Kaiti SC;
+    background: rgba(255, 255, 255, 0.95);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    position: fixed;
+    top: 37%;
+    left: 50%; 
+    border-radius: 10px;
+    width: calc(23%);
+    align-items: center; 
+    text-align: center;
+}
+.email-registration input::placeholder {
+    color: #817A7A;
+    align-items: center; 
+    text-align: center;
+}
+
+.password-registration input {
+    border: 2px solid #CCC3C3;
+    color: #000;
+    font-size: 30px;
+    text-align: left;
+    font-family: Kaiti SC;
+    background: rgba(255, 255, 255, 0.95);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    position: fixed;
+    top: 47%;
+    left: 50%; 
+    border-radius: 10px;
+    width: calc(23%);
+    align-items: center; 
+    text-align: center;
+}
+.password-registration input::placeholder {
+    color: #817A7A;
+    align-items: center; 
+    text-align: center;
+}
+
+.name-registration input {
+    border: 2px solid #CCC3C3;
+    color: #000;
+    font-size: 30px;
+    text-align: left;
+    font-family: Kaiti SC;
+    background: rgba(255, 255, 255, 0.95);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    position: fixed;
+    top: 17%;
+    left: 50%; 
+    border-radius: 10px;
+    width: calc(23%);
+    align-items: center; 
+    text-align: center;
+}
+.name-registration input::placeholder {
+    color: #817A7A;
+    align-items: center; 
+    text-align: center;
+}
+
+.surname-registration input {
+    border: 2px solid #CCC3C3;
+    color: #000;
+    font-size: 30px;
+    text-align: left;
+    font-family: Kaiti SC;
+    background: rgba(255, 255, 255, 0.95);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    position: fixed;
+    top: 27%;
+    left: 50%; 
+    border-radius: 10px;
+    width: calc(23%);
+    align-items: center; 
+    text-align: center;
+}
+.surname-registration input::placeholder {
+    color: #817A7A;
+    align-items: center; 
+    text-align: center;
+}
+
+
+.second-password-registration input {
+    border: 2px solid #CCC3C3;
+    color: #000;
+    font-size: 30px;
+    text-align: left;
+    font-family: Kaiti SC;
+    background: rgba(255, 255, 255, 0.95);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    position: fixed;
+    top: 57%;
+    left: 50%; 
+    border-radius: 10px;
+    width: calc(23%);
+    align-items: center; 
+    text-align: center;
+}
+.second-password-registration input::placeholder {
+    color: #817A7A;
+    align-items: center; 
+    text-align: center;
+}

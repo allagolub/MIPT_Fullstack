@@ -1,0 +1,30 @@
+
+  .header-registration {
+    position: fixed;
+    top: 5%;
+    left: 50%; 
+    flex-shrink: 0;
+    line-height: normal;
+    border: 0px;
+    background: #FFEFEF;
+    color:  #585E97;
+    font-size: 60px;
+    font-family:  Kaiti SC;
+    cursor: pointer;
+    display: flex;
+  }
+
+  .title-registration {
+    position: fixed;
+    left: 5%;
+    top: 5%;
+    color: #585E97;
+    font-family: Kaiti SC;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 400;
+    display: flex;
+    line-height: normal;
+    }
+  
+  
